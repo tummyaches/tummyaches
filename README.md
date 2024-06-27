@@ -14,7 +14,7 @@ $${\color{cyan} lets\ be \ greennames \ and \ c+h \ for \ 3 \ hours }$$
 
    
 <p align="center">
-    <img src="https://media.discordapp.net/attachments/1216331712477397002/1249804645052973197/Untitled164_20240531113225.png?ex=667d1207&is=667bc087&hm=255ac9e9e6038077df8fd11b28d2ef53402f023bc9d658a13708ef28c814bb73&=&format=webp&quality=lossless&width=382&height=437" alt="Your image description" />
+    <img src="https://media.discordapp.net/attachments/1216331712477397002/1249804645052973197/Untitled164_20240531113225.png?ex=667e6387&is=667d1207&hm=2c8e403c05100649a871ba588a9dad8a8f67c6b583c740d3f77947614e0aa021&=&format=webp&quality=lossless&width=580&height=662" alt="Your image description" />
 </p>
 <p align="center">
     <img src="https://64.media.tumblr.com/a9e2065a3cebcd6b75ea782d734a1e3b/ddb75fe1265919cb-91/s250x400/e749ee38d7082332633c4a923a36a378ac2c8e05.gifv" alt="Your image description" />
